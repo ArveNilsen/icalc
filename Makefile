@@ -1,5 +1,5 @@
 RM:=rm -rf
-OUT:=icalc
+OUT:=fcalc
 
 all: build
 
